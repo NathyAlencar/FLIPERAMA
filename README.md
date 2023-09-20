@@ -5,6 +5,6 @@ Feito em grupo
   - Banco de Dados
   - Back-end
 
-Autores: Nathalia Maisa Alencar de Araujo
-           Paulo Ferreira de Matos
-           Vangelo Moreira se Araujo Filho
+Autores: Nathalia Maisa Alencar de Araujo;
+           Paulo Ferreira de Matos;
+           Vangelo Moreira se Araujo Filho;
