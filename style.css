@@ -74,8 +74,9 @@
     display: none;
   }
   section {
+    width: 100vw;
     height: 100vh;
-    background: url(img/fliperama.jpg) no-repeat;
+    background: url(img/Fliperamas.png) no-repeat;
     background-position: top;
     background-size: cover;
   }
