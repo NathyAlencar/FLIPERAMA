@@ -74,6 +74,7 @@
     display: none;
   }
   section {
+    width: 100vw;
     height: 100vh;
     background: url(img/Fliperamas.png) no-repeat;
     background-position: top;
