@@ -83,6 +83,7 @@
     background: url(img/FLIPERAMA_Fundo.png) no-repeat;
     background-position: top;
     background-size: cover;  
+    
   }
   
    
@@ -91,7 +92,7 @@
     color: var(--blue);
     font-size: 45px;
     font-family: Abril Fatface;
-    padding-top: 100px;
+    padding-top: 150px;
     
   }
 
