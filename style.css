@@ -47,7 +47,6 @@
     font-size: 17px;
     padding: 7px 13px;
     border-radius: 13px;
-    text-transform: lowercase;
   }
   a.active, a:hover {
     background: var(--purple);
