@@ -1,3 +1,8 @@
+/*Fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Roboto:wght@100&display=swap');
+
+
+
 :root {
     --blue : #12d2db;
     --white : #fcf2fa;
@@ -14,7 +19,7 @@
     box-sizing: border-box;
   }
   body {
-    font-family: 'Poppins', sans-serif;
+    
   }
   nav {
     position: absolute;
@@ -25,6 +30,7 @@
   }
   label.logo {
     color: var(--white);
+    font-family: 'Poppins', sans-serif;
     font-size: 30px;
     line-height: 80px;
     padding: 0 80px;
@@ -44,6 +50,7 @@
   }
   nav ul li a {
     color: var(--white);
+    font-family: 'Poppins', sans-serif;
     font-size: 17px;
     padding: 7px 13px;
     border-radius: 13px;
@@ -77,9 +84,27 @@
     height: 100vh;
     background: url(img/FLIPERAMA.png) no-repeat;
     background-position: top;
-    background-size: cover;
+    background-size: cover;  
   }
   
+   
+  h1{
+    text-align: center;
+    color: var(--blue);
+    font-size: 35px;
+    font-family: Abril Fatface;
+    padding-top: 200px;
+    
+  }
+
+  p{
+    text-align: justify;
+    color: var(--white);
+    font-size: 13px;
+    font-family: Abril Fatface;
+    padding-top: 20px;
+
+  }
   /* responsove code */
   @media (max-width: 952px) {
     /* table mode */
