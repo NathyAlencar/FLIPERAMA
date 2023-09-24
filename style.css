@@ -120,8 +120,16 @@
     color: var(--blue);
     font-size: 45px;
     font-family: 'Rubik Pixels', cursive;
-    padding-top: 10px;
+    padding-top: 20px;
   }
+  h4{
+      text-align: center;
+      color: var(--blue);
+      font-size: 38px;
+      font-family: 'Rubik Pixels', cursive;
+      padding-top: 10px;
+    }
+  
   p{
     text-align: justify;
     color: #ffffff;
