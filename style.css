@@ -43,7 +43,7 @@
   
   body{ 
    
-    background: #70197B; 
+    background: #971da7; 
 
   }
   * {
@@ -140,11 +140,12 @@
 
   h2{
     text-align: left;
-    color: #000000;
-    font-size: 30px;
-    font-family: 'Roboto', sans-serif;;
+    color: #00fff7;
+    font-size: 20px;
+    font-family: 'little-pixel';
     padding-top: 30px;
-    padding-left: 20px; ;
+    padding-left: 50px; ;
+    font-weight: normal;
   }
 
   h3{
@@ -159,8 +160,9 @@
       text-align: center;
       color: var(--blue);
       font-size: 38px;
-      font-family: 'Rubik Pixels', cursive;
-      padding-top: 10px;
+      font-family:'LLPIXEL3';
+      padding-top: 15px;
+      font-weight: normal;
     }
   
   p{
