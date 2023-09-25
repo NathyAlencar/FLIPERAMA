@@ -121,6 +121,7 @@
     font-size: 45px;
     font-family: 'Rubik Pixels', cursive;
     padding-top: 20px;
+  
   }
   h4{
       text-align: center;
@@ -138,7 +139,7 @@
     padding-top: 20px;
     padding-left: 85px;
     padding-right: 85px;
-
+    font-weight: bold;
   }
   /* responsove code */
   @media (max-width: 952px){
