@@ -4,10 +4,33 @@
 /*'Roboto', sans-serif;*/@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
 @font-face {
+  font-family:'I-pixel-u' ;
+  src: url('/Fonts/I-pixel-u.ttf') format('truetype');
+}
+@font-face {
+  font-family:'little-pixel' ;
+  src: url('/Fonts/little-pixel.ttf') format('truetype');
+}
+@font-face {
   font-family:'LLPIXEL3' ;
   src: url('/Fonts/LLPIXEL3.ttf') format('truetype');
 }
-
+@font-face {
+  font-family:'PixelCards';
+  src: url('/Fonts/PixelCards.ttf') format('truetype');
+}
+@font-face {
+  font-family:'Pixeldrop' ;
+  src: url('/Fonts/Pixeldrop.ttf') format('truetype');
+}
+@font-face {
+  font-family:'Pixeliza20' ;
+  src: url('/Fonts/Pixeliza20.ttf') format('truetype');
+}
+@font-face {
+  font-family:'Pixelmania' ;
+  src: url('/Fonts/Pixelmania.ttf') format('truetype');
+}
 
 :root {
     --blue : #12d2db;
@@ -105,7 +128,7 @@
   h1{
     text-align: center;
     color: var(--blue);
-    font-family: 'LLPIXEL3';
+    font-family:'LLPIXEL3';
     font-size: 45px;
     padding-top: 20%;
     padding-right: 20px;
