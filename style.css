@@ -23,9 +23,10 @@
   }
   
   body{ 
-   
+    margin: 0;
+    padding: 0;
     background: #971da7; 
-
+    box-sizing: border-box;
   }
   * {
     padding: 0;
@@ -40,6 +41,7 @@
     box-shadow: var(--shadow);
     height: 80px;
     width: 100%;
+    
   }
   label.logo {
     color: var(--white);
@@ -203,4 +205,5 @@
       left: 0;
     }
   }
+
 
