@@ -8,3 +8,5 @@ Feito em grupo
 Autores: Nathalia Maisa Alencar de Araujo;
            Paulo Ferreira de Matos;
            Vangelo Moreira se Araujo Filho;
+
+Fonts retiradas do goolge fonts e dafont
