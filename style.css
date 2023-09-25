@@ -144,7 +144,7 @@
     font-size: 20px;
     font-family: 'little-pixel';
     padding-top: 30px;
-    padding-left: 50px; ;
+    padding-left: 45px; 
     font-weight: normal;
   }
 
@@ -152,9 +152,9 @@
     text-align: center;
     color: var(--blue);
     font-size: 45px;
-    font-family: 'Rubik Pixels', cursive;
+    font-family: 'LLPIXEL3';
     padding-top: 20px;
-  
+    font-weight: normal;
   }
   h4{
       text-align: center;
