@@ -27,7 +27,7 @@
   body{ 
     margin: 0;
     padding: 0;
-    background: #971da7; 
+    background:var(--purple-blc); 
     box-sizing: border-box;
   }
   * {
@@ -140,7 +140,7 @@ body, button, input {
 
 .screen {
   position: relative;
-  background: #3e3e3e;
+  background: url(img/fundo_contato.png);
   border-radius: 15px;
 }
 
@@ -161,7 +161,7 @@ body, button, input {
   display: flex;
   align-items: center;
   padding: 10px 20px;
-  background: #4d4d4f;
+  background: #1d1d1d;
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
 }
@@ -221,7 +221,7 @@ body, button, input {
   display: flex;
   flex-direction: column;
   position: relative;
-  color: #ea1d6f;
+  color: #eac41d;
   font-size: 20px;
 }
 
@@ -233,13 +233,12 @@ body, button, input {
   bottom: -10px;
   width: 50px;
   height: 5px;
-  background: #ea1d6f;
+  background: #eac41d;
 }
 
 .Whatsapp-link { /*PHONE*/
   margin-top: auto;
-  font-size: 14px;
-  color: #00fff2;
+  color: #eac41d;
 	text-align: left;
 	font-size: 14px;
 }
@@ -263,7 +262,7 @@ body, button, input {
   padding: 10px 0;
   background: none;
   border: none;
-  border-bottom: 1px solid #666;
+  border-bottom: 1px solid #ffc506;
   color: #ddd;
   font-size: 14px;
   text-transform: uppercase;
@@ -282,8 +281,8 @@ body, button, input {
 .app-form-button {
   background: none;
   border: none;
-  color: #ea1d6f;
-  font-size: 14px;
+  color: #eac41d;
+  font-size: 15px;
   cursor: pointer;
   outline: none;
 }
