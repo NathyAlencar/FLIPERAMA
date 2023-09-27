@@ -112,7 +112,7 @@
   
 body, button, input {
   font-family: 'Montserrat', sans-serif;
-  font-weight: 700;
+  font-weight: 400;
   letter-spacing: 1.4px;
 }
 
@@ -122,9 +122,9 @@ body, button, input {
 }
 
 .container {
-  flex: 0 1 700px;
+  flex: 0 1 600px;
   margin: auto;
-  padding: 10px;
+  padding: 50px;
 }
 
 .screen {
@@ -198,7 +198,7 @@ body, button, input {
 
 .screen-body-item {
   flex: 1;
-  padding: 50px;
+  padding: 30px;
 }
 
 .screen-body-item.left {
@@ -211,7 +211,7 @@ body, button, input {
   flex-direction: column;
   position: relative;
   color: #ea1d6f;
-  font-size: 26px;
+  font-size: 20px;
 }
 
 .app-title:after {
@@ -220,8 +220,8 @@ body, button, input {
   position: absolute;
   left: 0;
   bottom: -10px;
-  width: 25px;
-  height: 4px;
+  width: 50px;
+  height: 5px;
   background: #ea1d6f;
 }
 
@@ -230,9 +230,7 @@ body, button, input {
   font-size: 14px;
   color: #00fff2;
 	text-align: left;
-	font-size: 15px;
-	
-	
+	font-size: 14px;
 }
 
 
