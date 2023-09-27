@@ -27,7 +27,7 @@
   body{ 
     margin: 0;
     padding: 0;
-    background: #971da7; 
+    background:var(--purple-blc); 
     box-sizing: border-box;
   }
   * {
