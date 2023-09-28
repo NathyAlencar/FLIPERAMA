@@ -1,16 +1,43 @@
-CREATE TABLE jogador 
+CREATE TABLE Jogador 
 ( 
- nome INT,  
+ Nome INT,  
  id_jogador INT PRIMARY KEY,  
+); 
+
+CREATE TABLE Contato 
+( 
+ Mensagem INT,  
+ Email INT,  
+ contato INT PRIMARY KEY,  
+ nome INT,  
+); 
+
+CREATE TABLE Jogos 
+( 
 ); 
 
 CREATE TABLE leaderboard 
 ( 
- pontuacao INT,  
- id_leaderboard INT PRIMARY KEY,  
- posicao INT,  
- idjogador INT,  
+ id_leaderboard INT,  
+ pontuação INT PRIMARY KEY,  
+ Posição INT,  
 ); 
 
-ALTER TABLE leaderboard ADD FOREIGN KEY(idjogador) REFERENCES jogador (idjogador)
+CREATE TABLE fliperama 
+( 
+ id_jogador INT PRIMARY KEY,  
+ contato INT PRIMARY KEY,  
+ idJogos INT PRIMARY KEY,  
+); 
 
+CREATE TABLE Pontuação 
+( 
+ idJogos INT PRIMARY KEY,  
+ pontuação INT PRIMARY KEY,  
+); 
+
+ALTER TABLE fliperama ADD FOREIGN KEY(id_jogador) REFERENCES Jogador (id_jogador)
+ALTER TABLE fliperama ADD FOREIGN KEY(contato) REFERENCES Contato (contato)
+ALTER TABLE fliperama ADD FOREIGN KEY(idJogos) REFERENCES Jogos (idJogos)
+ALTER TABLE Pontuação ADD FOREIGN KEY(idJogos) REFERENCES Jogos (idJogos)
+ALTER TABLE Pontuação ADD FOREIGN KEY(pontuação) REFERENCES leaderboard (pontuação)
