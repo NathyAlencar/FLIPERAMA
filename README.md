@@ -9,4 +9,4 @@ Autores: Nathalia Maisa Alencar de Araujo;
            Paulo Ferreira de Matos;
            Vangelo Moreira se Araujo Filho;
 
-Fonts retiradas do goolge fonts e dafont
+Fonts retiradas do Google Fonts e dafont.
