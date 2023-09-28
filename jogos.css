@@ -125,7 +125,14 @@
     text-decoration: none !important;
   }
   
-
+p{
+  text-align: justify;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-family: 'Abril Fatface';
+  color: var(--white);
+  font-weight: bold;
+}
   
   img {
     width: 100%;
