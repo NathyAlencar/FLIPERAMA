@@ -6,7 +6,9 @@ Feito em grupo
   - Back-end
 
 Autores: Nathalia Maisa Alencar de Araujo;
-           Paulo Ferreira de Matos;
-           Vangelo Moreira se Araujo Filho;
+         Paulo Ferreira de Matos;
+         Vangelo Moreira se Araujo Filho;
 
 Fonts retiradas do Google Fonts e dafont.
+
+*Em andamento
