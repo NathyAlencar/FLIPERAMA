@@ -7,7 +7,7 @@ Feito em grupo
 
 Autores: Nathalia Maisa Alencar de Araujo;
          Paulo Ferreira de Matos;
-         Vangelo Moreira se Araujo Filho;
+         Vangelo Moreira de Araujo Filho;
 
 Fonts retiradas do Google Fonts e dafont.
 
