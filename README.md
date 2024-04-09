@@ -11,4 +11,3 @@ Autores: Nathalia Maisa Alencar de Araujo;
 
 Fonts retiradas do Google Fonts e dafont.
 
-*Em andamento
